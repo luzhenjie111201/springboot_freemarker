@@ -1,0 +1,8 @@
+com:
+  itheima:
+    name: itheima
+
+
+spring:
+  profiles:
+    active: a,b

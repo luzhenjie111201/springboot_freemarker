@@ -1,0 +1,4 @@
+com.itheima.name=itheima
+
+#激活其他的properties
+spring.profiles.active=a,b
