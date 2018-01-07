@@ -4,7 +4,6 @@
 	<groupId>com.itheima.springboot</groupId>
 	<artifactId>spring-boot-02-view-static</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-
 	<dependencies>
 
 		<dependency>
